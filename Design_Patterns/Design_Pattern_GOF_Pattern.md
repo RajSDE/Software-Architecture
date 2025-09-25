@@ -1,4 +1,4 @@
-<p align="right"><img src="https://komarev.com/ghpvc/?username=RajSDE&label=Visitors&color=0e75b6&style=flat" alt="RajSDE" />
+<p align="right"><img src="https://komarev.com/ghpvc/?username=RajSDE&label=Visitors&color=000000&style=flat" alt="RajSDE" />
 
 # Complete GoF Design Patterns Deep-Dive Study Outline
 

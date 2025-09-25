@@ -1,4 +1,4 @@
-<p align="right"><img src="https://komarev.com/ghpvc/?username=RajSDE&label=Visitors&color=0e75b6&style=flat" alt="RajSDE" />
+<p align="right"><img src="https://komarev.com/ghpvc/?username=RajSDE&label=Visitors&color=000000&style=flat" alt="RajSDE" />
 
 Design patterns are **proven, reusable solutions to commonly occurring problems in software design**. They serve as templates or blueprints that provide standardized approaches to solve recurring design challenges without being rigid code structures.
 
