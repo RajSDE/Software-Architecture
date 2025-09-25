@@ -16,9 +16,9 @@ Design patterns provide several key benefits for software development:
 
 All design patterns fall into three main categories:
 
-**Creational Patterns** - Focus on object creation mechanisms (Singleton, Factory Method, Builder)
-**Structural Patterns** - Deal with object composition and relationships (Adapter, Facade, Proxy)
-**Behavioral Patterns** - Concentrate on communication between objects and responsibilities (Observer, Strategy, Command)
+- **Creational Patterns** - Focus on object creation mechanisms (Singleton, Factory Method, Builder)
+- **Structural Patterns** - Deal with object composition and relationships (Adapter, Facade, Proxy)
+- **Behavioral Patterns** - Concentrate on communication between objects and responsibilities (Observer, Strategy, Command)
 
 ### Historical Context
 
@@ -32,3 +32,5 @@ Design patterns gained widespread recognition after the **Gang of Four (GoF)** p
 - **Best Practices**: Represent formalized approaches that have been refined over time
 
 Design patterns are essential tools that help developers build robust, maintainable applications by leveraging collective wisdom and proven architectural solutions.
+
+### [More on Depth ℹ️](Design_Pattern_2.md)
