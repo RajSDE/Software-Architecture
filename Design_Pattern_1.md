@@ -22,7 +22,7 @@ All design patterns fall into three main categories:
 
 ### Historical Context
 
-Design patterns gained widespread recognition after the **Gang of Four (GoF)** published "Design Patterns: Elements of Reusable Object-Oriented Software" in 1994, documenting 23 fundamental patterns that remain the foundation of modern software design.
+Design patterns gained widespread recognition after the [**Gang of Four (GoF)**](Design_Pattern_GOF_Pattern.md) published "Design Patterns: Elements of Reusable Object-Oriented Software" in 1994, documenting 23 fundamental patterns that remain the foundation of modern software design.
 
 ### Key Characteristics
 
