@@ -44,7 +44,7 @@ Here's the complete hierarchy for building robust applications:
 **Stakeholders**: Senior developers, tech leads, development teams<br>
 **Key Elements**: Object-oriented design, SOLID principles, interface definitions<br>
 
-### 6. Design Patterns (Implementation Solutions)
+### 6. [Design Patterns (Implementation Solutions)](Design_Pattern_1.md)
 
 **Purpose**: Proven solutions to common design problems at the code level<br>
 **Focus**: Reusable design templates, best practices, code organization<br>
