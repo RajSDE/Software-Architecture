@@ -1,6 +1,6 @@
 > When building a robust application, there's a **clear hierarchical flow** from abstract concepts to concrete implementations.<br>
 > This hierarchy ensures systematic development where each level builds upon and refines the previous one.
-<p align="right"><img src="https://komarev.com/ghpvc/?username=RajSDE&label=Visitors&color=0e75b6&style=flat" alt="RajSDE" />
+<p align="right"><img src="https://komarev.com/ghpvc/?username=RajSDE&label=Visitors&color=000000&style=flat" alt="RajSDE" />
 
 <h2 align="center">Software Architecture Guide</h2>
 
