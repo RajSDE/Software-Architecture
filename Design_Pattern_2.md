@@ -10,7 +10,7 @@ Design patterns are **proven, reusable solutions to commonly occurring problems*
 - **Code Quality**: Promote cleaner, more maintainable, and scalable code
 - **Faster Development**: Established solutions speed up the development process
 
-## The Gang of Four (GoF) Foundation
+## [The Gang of Four (GoF) Foundation](Design_Pattern_GOF_Pattern.md)
 
 The **Gang of Four** (Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides) documented **23 classic design patterns** in their 1994 book "Design Patterns: Elements of Reusable Object-Oriented Software". This book became the cornerstone of object-oriented software development and continues to be vital in every software engineer's toolki
 
