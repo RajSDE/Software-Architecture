@@ -1,7 +1,8 @@
 > When building a robust application, there's a **clear hierarchical flow** from abstract concepts to concrete implementations.<br>
 > This hierarchy ensures systematic development where each level builds upon and refines the previous one.
+<p align="right"><img src="https://komarev.com/ghpvc/?username=RajSDE&label=Visitors&color=0e75b6&style=flat" alt="RajSDE" />
 
-## <center>Software Architecture Guide</center>
+<h2 align="center">Software Architecture Guide</h2>
 
 Here's the complete hierarchy for building robust applications:
 
@@ -44,7 +45,7 @@ Here's the complete hierarchy for building robust applications:
 **Stakeholders**: Senior developers, tech leads, development teams<br>
 **Key Elements**: Object-oriented design, SOLID principles, interface definitions<br>
 
-### 6. [Design Patterns (Implementation Solutions)](Design_Pattern_1.md)
+### 6. [Design Patterns (Implementation Solutions)](./Design_Patterns/Design_Pattern_1.md)
 
 **Purpose**: Proven solutions to common design problems at the code level<br>
 **Focus**: Reusable design templates, best practices, code organization<br>

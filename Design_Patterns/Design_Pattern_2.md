@@ -1,3 +1,5 @@
+<p align="right"><img src="https://komarev.com/ghpvc/?username=RajSDE&label=Visitors&color=0e75b6&style=flat" alt="RajSDE" />
+
 # Design Patterns: Complete Developer's Guide
 
 ## What Are Design Patterns?
